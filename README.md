@@ -13,3 +13,4 @@
 - nvm
 - cnpm
 - zsh-autosuggestions
+- CheatSheet
