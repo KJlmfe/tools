@@ -14,3 +14,4 @@
 - cnpm
 - zsh-autosuggestions
 - CheatSheet
+- keycastr
