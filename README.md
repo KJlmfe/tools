@@ -16,6 +16,7 @@
 - CheatSheet
 - keycastr
 - Dropbox
+- FZF
 
 ## Chrome插件
 
