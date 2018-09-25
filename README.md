@@ -42,5 +42,5 @@ Host github.com
 
 `ln -si $(pwd)/.vimrc /Users/kjlmfe/Code/tools/vimrc` （一定要用全路径）
 
--s create a symbolic link 可以理解为快捷方式，删除快捷方式，不会删除元文件，但可以通过快捷方式去修改源文件
--i 交互式询问是否覆盖等
+- s create a symbolic link 可以理解为快捷方式，删除快捷方式，不会删除元文件，但可以通过快捷方式去修改源文件
+- i 交互式询问是否覆盖等
