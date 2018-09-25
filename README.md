@@ -15,6 +15,7 @@
 - zsh-autosuggestions
 - CheatSheet
 - keycastr
+- Dropbox
 
 ## Chrome插件
 
