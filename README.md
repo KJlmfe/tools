@@ -15,3 +15,7 @@
 - zsh-autosuggestions
 - CheatSheet
 - keycastr
+
+## Chrome插件
+
+- Vimium
