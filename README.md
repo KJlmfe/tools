@@ -31,7 +31,7 @@
 `~/.ssh/config`文件配置
 
 ```
-Host github
-  HostName github.com
-  IdentityFile ~/.ssh/id_rsa.github
+Host github.com
+    HostName github.com
+    IdentityFile ~/.ssh/id_rsa.github
 ```
