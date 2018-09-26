@@ -18,6 +18,7 @@
 - Dropbox
 - FZF
 - Evernote
+- the_silver_searcher(ag)
 
 ## Chrome插件
 
