@@ -17,6 +17,7 @@
 - keycastr
 - Dropbox
 - FZF
+- Evernote
 
 ## Chrome插件
 
