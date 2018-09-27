@@ -19,7 +19,8 @@
 - FZF
 - Evernote
 - the_silver_searcher(ag)
-- Bartender 3
+- Bartender
+- iStat Menus
 
 ## Chrome插件
 
