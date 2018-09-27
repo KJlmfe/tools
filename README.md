@@ -19,6 +19,7 @@
 - FZF
 - Evernote
 - the_silver_searcher(ag)
+- Bartender 3
 
 ## Chrome插件
 
