@@ -21,6 +21,7 @@
 - the_silver_searcher(ag)
 - Bartender
 - iStat Menus
+- Charles
 
 ## Chrome插件
 
