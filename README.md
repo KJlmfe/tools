@@ -23,6 +23,7 @@
 - iStat Menus
 - Charles
 - Dash
+- OmniFocus
 
 ## Chrome插件
 
