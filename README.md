@@ -22,6 +22,7 @@
 - Bartender
 - iStat Menus
 - Charles
+- Dash
 
 ## Chrome插件
 
