@@ -71,5 +71,4 @@ ln -i ./vimrc ~/.vimrc (ln默认是硬链接）
 - http://www.developer-cheatsheets.com/
 - https://regex101.com/
 - https://tinypng.com/
-
-Host github.com
+- https://vim.rtorr.com/lang/zh_cn/
