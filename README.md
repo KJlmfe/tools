@@ -64,3 +64,12 @@ ln -i ./vimrc ~/.vimrc (ln默认是硬链接）
 软连接 `ln -si $(pwd) /Users/kjlmfe/Desktop/tools` （软连接必须要用全路径）
 
 - `-s` create a symbolic link 可以理解为快捷方式，删除快捷方式，不会删除元文件，但可以通过快捷方式去修改源文件
+
+
+## 站点
+
+- http://www.developer-cheatsheets.com/
+- https://regex101.com/
+- https://tinypng.com/
+
+Host github.com
