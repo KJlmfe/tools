@@ -24,6 +24,7 @@
 - Charles
 - Dash
 - OmniFocus
+- jq
 
 ## Chrome插件
 
