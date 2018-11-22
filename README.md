@@ -45,6 +45,9 @@ Host github.com
     IdentityFile ~/.ssh/id_rsa.github
 ```
 
+Tips:
+  - [Using different SSH keys for multiple Bitbucket accounts](https://developer.atlassian.com/blog/2016/04/different-ssh-keys-multiple-bitbucket-accounts/)
+
 ### Link文件
 
 #### 硬链接管理dotfiles
