@@ -3,6 +3,7 @@
 ## Mac
 
 - brew
+- brew install vim git (替换系统的老版本）
 - 1Password
 - Alfred
 - Shadowsocks
