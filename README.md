@@ -34,6 +34,10 @@
 
 ## Shell命令
 
+### diff files
+    diff <file1> <file2>
+    code --diff <file1> <file2> (by VSCode)
+
 ### 配置ssh key
 
 `ssh-keygen -f ~/.ssh/id_rsa.github -C "Work Mac"` 会生成`id_rsa.github`,`id_rsa.github.pub` 在`~/.ssh`(把pub存到github网站里）
@@ -69,6 +73,7 @@ ln -i ./vimrc ~/.vimrc (ln默认是硬链接）
 软连接 `ln -si $(pwd) /Users/kjlmfe/Desktop/tools` （软连接必须要用全路径）
 
 - `-s` create a symbolic link 可以理解为快捷方式，删除快捷方式，不会删除元文件，但可以通过快捷方式去修改源文件
+
 
 
 ## 站点
