@@ -26,6 +26,7 @@
 - Dash
 - OmniFocus
 - jq
+- svgo
 
 ## Chrome插件
 
