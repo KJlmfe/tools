@@ -27,6 +27,7 @@
 - OmniFocus
 - jq
 - svgo
+- Sketch Measure
 
 ## Chrome插件
 
