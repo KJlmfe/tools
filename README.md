@@ -86,3 +86,4 @@ ln -i ./vimrc ~/.vimrc (ln默认是硬链接）
 - https://vim.rtorr.com/lang/zh_cn/
 - https://builtwith.com/
 - https://browserl.ist/
+- https://www.alexa.com/
