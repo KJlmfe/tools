@@ -28,6 +28,7 @@
 - jq
 - svgo
 - Sketch Measure
+- httpie
 
 ## Chrome插件
 
